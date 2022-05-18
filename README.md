@@ -1,2 +1,5 @@
 # dio-repositorio
-Repositório DIO 
+# Repositório DIO
+
+Este é o repositório de teste para o curso da DIO
+ 
